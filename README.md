@@ -55,7 +55,7 @@ RuTube - 557 000
 Дзен - 135 000  
 ВК - 20 000  
 
-→ Полный кейс: [Открыть кейс](cases/startuju-sebya.md)
+→ Полный кейс: [Открыть кейс]([cases/startuju-sebya.md](https://leonidshushpanov.github.io/portfolio/cases/startuju-sebya))
 
 ---
 

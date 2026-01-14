@@ -65,12 +65,12 @@ Content Producer / Community Producer
 
 <img 
   src="/assets/images/chat-1.jpg" 
-  width="45%" 
+  width="40%" 
   style="border-radius:12px; margin-right:2%;">
 
 <img 
   src="/assets/images/chat-2.jpg" 
-  width="45%" 
+  width="40%" 
   style="border-radius:12px;">
 
 

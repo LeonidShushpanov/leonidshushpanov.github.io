@@ -6,7 +6,7 @@ Content Producer / Video Producer
 Тольятти, Россия  
 Удаленная работа / гибрид / офис
 
-![Съемка подкаста](/assets/images/portrets-8.jpg)
+<img src="/assets/images/portrets-8.jpg" width="100%" style="border-radius:12px;">
 
 ## Обо мне
 

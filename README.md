@@ -111,7 +111,5 @@ Content Producer / Field Producer
 
 ## Контакты
 
-Telegram: @твой_ник  
-Email: твой@email  
-LinkedIn: ссылка  
-GitHub: https://github.com/LeonidShushpanov
+Telegram: https://t.me/velikor
+Email: <a href="albunite@ya.ru.ru">albunite@ya.ru</a>

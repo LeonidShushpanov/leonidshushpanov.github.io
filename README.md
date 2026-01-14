@@ -113,3 +113,4 @@ Content Producer / Field Producer
 
 Telegram: https://t.me/velikor
 Email: <a href="albunite@ya.ru.ru">albunite@ya.ru</a>
+ВК: https://vk.com/albunite

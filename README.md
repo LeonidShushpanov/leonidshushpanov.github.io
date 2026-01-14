@@ -46,8 +46,14 @@ Content Producer / Video Producer
 ### Подкаст "Стартую себя"  
 Продюсер, режиссер, монтажер  
 
-![Бэкстейдж](/assets/images/podcast-10.jpg)
-<img src="/assets/images/podcast-10.jpg" width="48%">
+<img 
+  src="/assets/images/podcast-10.jpg" 
+  width="60%" 
+  style="
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  "
+>
 
 Из любительского подкаста "на коленке" - в полноценный медиа-проект с монетизацией и офлайн-активностями.  
 Проект развивался и продюсировался в течение 6 месяцев.

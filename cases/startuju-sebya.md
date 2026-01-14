@@ -1,5 +1,7 @@
 # Подкаст "Стартую себя"
 
+<img src="/assets/images/.jpg" width="100%" style="border-radius:12px;">
+
 ## Роль
 Продюсер, режиссер, монтажер
 

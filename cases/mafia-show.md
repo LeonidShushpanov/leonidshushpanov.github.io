@@ -1,5 +1,7 @@
 # Шоу "Мафия с падающими стульями"
 
+<img src="/assets/images/mafia-backstage.jpg" width="100%" style="border-radius:12px;">
+
 ## Роль
 Content Producer / Technical Producer / Director of Photography
 

@@ -1,5 +1,5 @@
 # Леонид Шушпанов  
-Content Producer / Video Producer 
+Content Producer / Video Producer  
 
 Продюсирую и создаю видео- и подкаст-проекты - от идеи и формата до съемки, монтажа и дистрибуции.
 

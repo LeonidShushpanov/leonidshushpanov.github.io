@@ -111,6 +111,6 @@ Content Producer / Field Producer
 
 ## Контакты
 
-Telegram: https://t.me/velikor
-Email: <a href="mailto:albunite@ya.ru.ru">albunite@ya.ru</a>
-ВК: https://vk.com/albunite
+Telegram: [@velikor](https://t.me/velikor)
+ВК: [vk.com/albunite](https://vk.com/albunite)
+Email: [albunite@ya.ru](mailto:albunite@ya.ru?subject=Вакансия Content Producer)

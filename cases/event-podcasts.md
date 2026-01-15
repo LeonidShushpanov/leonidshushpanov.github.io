@@ -74,6 +74,25 @@ Content Producer / Field Producer / Video Producer
 
 Ночной семейный фестиваль, посвященный открытию детского парка развлечений.
 
+<div style="display:flex; gap:2%; align-items:flex-start;">
+  
+  <!-- Левая вертикальная -->
+  <img 
+    src="/assets/images/papaja-12.jpg"
+    style="width:24%; border-radius:12px;">
+  
+  <!-- Центральная горизонтальная -->
+  <img 
+    src="/assets/images/papaja-1.jpg"
+    style="width:48%; border-radius:12px;">
+  
+  <!-- Правая вертикальная -->
+  <img 
+    src="/assets/images/papaja-6.jpg"
+    style="width:24%; border-radius:12px;">
+
+</div>
+
 ### Формат
 Папа и ребенок отвечают друг другу на серию заранее подготовленных вопросов, создавая эмоциональные, живые диалоги.
 

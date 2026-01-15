@@ -128,6 +128,13 @@ Content Producer / Technical Producer / Director of Photography
 
 Заказчик отметил, что многие продакшены отказывались от проекта из-за сложности и стоимости, и именно моя производственная модель позволила реализовать этот формат.
 
+<a href="https://vkvideo.ru/video-131021792_456240432" target="_blank">
+  <img 
+    src="/assets/images/mafia-vk-preview.jpg"
+    width="60%"
+    style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);">
+</a>
+
 ---
 
 ## Публикация

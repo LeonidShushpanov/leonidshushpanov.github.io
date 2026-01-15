@@ -37,6 +37,12 @@ Content Producer / Field Producer / Video Producer
 
 Подкаст-площадка была организована совместно с подкастом "Стартую себя".
 
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/vlianie-5.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/vlianie-4.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/vlianie-3.jpg" style="width:32%; border-radius:12px;">
+</div>
+
 ### Условия
 - большой шатер  
 - сцена с выступлениями  

@@ -132,7 +132,7 @@ Content Producer / Technical Producer / Director of Photography
   <a href="https://vkvideo.ru/video-131021792_456240432" target="_blank">
     <img 
       src="/assets/images/mafia-vk-preview.png"
-      style="width:100%; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);">
+      style="width:60%; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);">
   </a>
   <div style="font-size:14px; color:#666; margin-top:6px;">
     ▶ Трейлер проекта «Мафия с падающими стульями»

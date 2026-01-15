@@ -158,7 +158,7 @@ Content Producer / Technical Producer / Director of Photography
 
 Полный выпуск опубликован во ВКонтакте: https://vkvideo.ru/video-131021792_456240470  
 
-[Короткий видео бэкстейдж как это снимали](https://disk.yandex.ru/i/3EV54VtgQWZ2aw)  
+[Короткий видео бэкстейдж съемки проекта](https://disk.yandex.ru/i/3EV54VtgQWZ2aw)  
 
 Тизер - 2 200 просмотров  
 Полный выпуск - 843 просмотра  

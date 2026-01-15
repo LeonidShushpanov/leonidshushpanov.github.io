@@ -100,7 +100,7 @@ Content Producer / Video Producer
 ### Выездные съемки подкастов на фестивалях  
 Content Producer / Field Producer  
 
-<img src="/assets/images/papaja-3.jpg" width="60%" style="border-radius:12px;">
+<img src="/assets/images/papaja-3.jpg" width="60%" style="border-radius:12px;">  
 
 Организация мобильных подкаст-площадок на городских мероприятиях ("Влияние" и "ПапаЯ").  
 Создание форматов, выездной продакшен и запись контента в условиях живого ивента.

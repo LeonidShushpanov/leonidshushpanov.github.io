@@ -82,6 +82,7 @@ Content Producer / Video Producer / Post-production
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/museum-sport-7.jpg" style="width:32%; border-radius:12px;">
   <img src="/assets/images/museum-sport-9.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-6-1-2.jpg" style="width:32%; border-radius:12px;">
 </div>
 
 ---

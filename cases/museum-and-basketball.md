@@ -79,6 +79,11 @@ Content Producer / Video Producer / Post-production
 
 Во время записи я корректировал положение микрофонов и камер в паузах и незаметные моменты, чтобы не нарушать живую динамику интервью.
 
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/museum-sport-7.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-9.jpg" style="width:32%; border-radius:12px;">
+</div>
+
 ---
 
 ### Работа с героями

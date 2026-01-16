@@ -1,5 +1,34 @@
+<!--
 # Леонид Шушпанов  
-Content Producer / Video Producer / Продюсер видеопроектов  
+Content Producer / Video Producer
+-->
+
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:24px;">
+
+  <img 
+    src="/assets/images/portrait-small.jpg"
+    width="96"
+    height="96"
+    style="
+      border-radius:12px;
+      object-fit:cover;
+    ">
+
+  <div>
+    <h1 style="margin:0;">Леонид Шушпанов</h1>
+    <p style="margin:6px 0 0 0;">
+      Content Producer / Video Producer / Продюсер видеопроектов
+    </p>
+  </div>
+
+</div>
+
+<hr style="
+  border:none;
+  border-top:1px solid #e5e7eb;
+  margin:24px 0 32px 0;
+">
+
 
 Тольятти, Россия  
 Удалённая работа / гибрид / офис  

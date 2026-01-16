@@ -41,6 +41,12 @@ Content Producer / Video Producer / Post-production
 
 ## Реализация
 
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/museum-sport-3.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-10.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-11.png" style="width:32%; border-radius:12px;">
+</div>
+
 ### Подготовка локаций
 
 Для каждого выпуска я:

@@ -54,6 +54,12 @@ Content Producer / Technical Producer / Director of Photography
 
 ### 2. Камеры и оптика
 
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/mafia-back4.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back6.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back7.png" style="width:32%; border-radius:12px;">
+</div>
+
 Из-за отсутствия одинаковых камер в аренде использовались:
 - Sony FX30 (2 шт)  
 - Panasonic GH5  

@@ -89,7 +89,7 @@ Content Producer / Community Producer
 ### Шоу "Мафия с падающими стульями"  
 Content Producer / Technical Producer  
 
-<img src="/assets/images/mafia-backstage.jpg" width="60%" style="border-radius:12px;">
+<img src="/assets/images/mafia-vk-preview2.png" width="60%" style="border-radius:12px;">
 
 Имиджевое шоу со спортивными звездами города Тольятти, снятое в формате одного непрерывного дубля с 12 участниками в кадре.
 

@@ -35,19 +35,10 @@ Content Producer / Video Producer
 
 ---
 
-<!-- Старый вариант (может искажать некоторые картинки)
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/work-1-2.png" style="width:32%; border-radius:12px;">
   <img src="/assets/images/work-2.jpg" style="width:32%; border-radius:12px;">
   <img src="/assets/images/work-3.jpg" style="width:32%; border-radius:12px;">
-</div>
--->
-
-<!-- Новый вариант: одинаковая высота, картинки не искажаются -->
-<div style="display:flex; gap:2%;">
-  <img src="/assets/images/work-1-2.png" style="width:32%; height:200px; object-fit:cover; border-radius:12px;">
-  <img src="/assets/images/work-2.jpg" style="width:32%; height:200px; object-fit:cover; border-radius:12px;">
-  <img src="/assets/images/work-3.jpg" style="width:32%; height:200px; object-fit:cover; border-radius:12px;">
 </div>
 
 ## Чем я занимаюсь

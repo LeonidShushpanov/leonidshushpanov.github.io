@@ -25,7 +25,11 @@ Content Producer / Video Producer
 
 Я не просто снимаю видео - я помогаю превращать контент в работающий медиа-продукт.
 
----
+<div style="display:flex; gap:2%;">
+  <img src="/assets/images/work-1.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/work-2.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/work-3.jpg" style="width:32%; border-radius:12px;">
+</div>
 
 ## Чем я занимаюсь
 

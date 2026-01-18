@@ -134,6 +134,8 @@ Content Producer / Video Producer
 
 → [Открыть полный кейс](cases/social-media-growth)
 
+\* Instagram принадлежит компании Meta, признанной экстремистской организацией на территории РФ
+
 ---
 
 ## Контакты

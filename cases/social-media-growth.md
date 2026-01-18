@@ -96,6 +96,7 @@ Instagram использовался как:
 <div style="display:flex; gap:2%;">
   <img src="/assets/images/social-9.jpg" style="width:32%; border-radius:12px;">
   <img src="/assets/images/social-10.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-12.jpg" style="width:32%; border-radius:12px;">
 </div>
 
 ---

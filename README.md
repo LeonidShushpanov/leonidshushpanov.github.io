@@ -123,6 +123,19 @@ Content Producer / Field Producer
 
 ---
 
+### Личные соцсети и рост контента  
+Content Producer / Video Producer  
+
+<img src="/assets/images/social-1.jpg" width="100%" style="border-radius:12px;">  
+
+Собственные YouTube, TikTok и Instagram* как экспериментальная лаборатория форматов и алгоритмов.  
+Рост каналов до **60 000 подписчиков на YouTube**, **42 000 в TikTok** и ролики с охватами **до 8 млн просмотров** — без рекламных бюджетов.  
+Практика, которая напрямую используется в продюсировании клиентских и медиа-проектов.
+
+→ [Открыть кейс](cases/social-media-growth)
+
+---
+
 ## Контакты
 
 Telegram: [@velikor](https://t.me/velikor)  

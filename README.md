@@ -13,7 +13,7 @@
 <!-- /Yandex.Metrika counter -->
 
 # Леонид Шушпанов  
-Content Producer / Video Producer  
+Контент продюсер / Видео Продюсер  
 
 Продюсирую и создаю видео- и подкаст-проекты - от идеи и формата до съемки, монтажа и дистрибуции.
 
@@ -89,7 +89,7 @@ RuTube - 557 000
 
 ---
 ### «Плёночная суета» — нишевое медиа и сообщество  
-Content Producer / Community Producer  
+Контент продюсер / Сообщество продюсер  
 
 <img src="/assets/images/chat-1.jpg" width="40%" style="border-radius:12px; margin-right:2%;"><img src="/assets/images/chat-2.jpg" width="40%" style="border-radius:12px;">
 
@@ -101,7 +101,7 @@ Content Producer / Community Producer
 ---
 
 ### Шоу "Мафия с падающими стульями"  
-Content Producer / Technical Producer  
+Технический продюсер / Оператор-постановщик  
 
 <img src="/assets/images/mafia-vk-preview2.png" width="100%" style="border-radius:12px;">
 
@@ -114,7 +114,7 @@ Content Producer / Technical Producer
 ---
 
 ### Интервью для экспозиций музея и подкасты Федерации баскетбола  
-Content Producer / Video Producer  
+Контент продюсер / Видео продюсер  
 
 <img src="/assets/images/museum-sport-6.jpg" width="100%" style="border-radius:12px;">
 
@@ -126,7 +126,7 @@ Content Producer / Video Producer
 ---
 
 ### Выездные съемки подкастов на фестивалях  
-Content Producer / Field Producer  
+Контент продюсер / Оператор-постановщик  
 
 <img src="/assets/images/papaja-3.jpg" width="100%" style="border-radius:12px;">  
 
@@ -138,7 +138,7 @@ Content Producer / Field Producer
 ---
 
 ### Личные соцсети и рост контента  
-Content Producer / Video Producer  
+Контент продюсер / Видео продюсер  
 
 <img src="/assets/images/social-1.jpg" width="100%" style="border-radius:12px;">  
 
@@ -154,6 +154,6 @@ Content Producer / Video Producer
 
 ## Контакты
 
-Telegram: [@velikor](https://t.me/velikor)  
+Телеграм: [@velikor](https://t.me/velikor)  
 ВК: [vk.com/albunite](https://vk.com/albunite)  
 Email: [albunite@ya.ru](mailto:albunite@ya.ru?subject=Вакансия Content Producer)

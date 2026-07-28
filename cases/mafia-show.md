@@ -57,9 +57,9 @@ Content Producer / Technical Producer / Director of Photography
 ### 2. Камеры и оптика
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back4.png" class="zoomable" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back6.png" class="zoomable" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back7.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back4.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back6.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back7.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -77,8 +77,8 @@ Content Producer / Technical Producer / Director of Photography
 ### 3. Звук
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back9.png" class="zoomable" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back10.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back9.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back10.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -97,8 +97,8 @@ Content Producer / Technical Producer / Director of Photography
 ### 4. Освещение
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back1.png" class="zoomable" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back3.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back1.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back3.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -124,9 +124,9 @@ Content Producer / Technical Producer / Director of Photography
 ## Продакшен и контроль
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back8.png" class="zoomable" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back11.png" class="zoomable" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back2.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back8.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back11.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back2.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -167,7 +167,7 @@ Content Producer / Technical Producer / Director of Photography
     style="text-decoration:none; color:inherit;"
   >
     <img 
-      src="/assets/images/mafia-vk-preview2.png"
+      src="/assets/images/mafia-vk-preview2.jpg"
       style="
         width:100%;
         border-radius:12px;

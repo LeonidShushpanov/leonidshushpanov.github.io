@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+
 # Шоу "Мафия с падающими стульями"
 
-<img src="/assets/images/mafia-backstage.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/mafia-backstage.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 ## Роль
 Content Producer / Technical Producer / Director of Photography
@@ -55,9 +57,9 @@ Content Producer / Technical Producer / Director of Photography
 ### 2. Камеры и оптика
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back4.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back6.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back7.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back4.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back6.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back7.png" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -75,8 +77,8 @@ Content Producer / Technical Producer / Director of Photography
 ### 3. Звук
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back9.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back10.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back9.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back10.png" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -95,8 +97,8 @@ Content Producer / Technical Producer / Director of Photography
 ### 4. Освещение
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back1.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back3.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back1.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back3.png" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -122,9 +124,9 @@ Content Producer / Technical Producer / Director of Photography
 ## Продакшен и контроль
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/mafia-back8.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back11.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/mafia-back2.png" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back8.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back11.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/mafia-back2.png" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 <br>
@@ -194,3 +196,5 @@ Content Producer / Technical Producer / Director of Photography
 Полный выпуск - 843 просмотра  
 
 Проект имел имиджевый характер.
+
+<script src="/assets/js/lightbox.js"></script>

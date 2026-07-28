@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+
 # «Плёночная суета» — нишевое медиа и крупнейшее русскоязычное сообщество по плёночной фотографии
 
-<img src="/assets/images/chat-1.jpg" width="40%" style="border-radius:12px; margin-right:2%;"><img src="/assets/images/chat-2.jpg" width="40%" style="border-radius:12px;">  
+<img src="/assets/images/chat-1.jpg" class="zoomable" width="40%" style="border-radius:12px; margin-right:2%;"><img src="/assets/images/chat-2.jpg" class="zoomable" width="40%" style="border-radius:12px;">  
 
 **Роль:** Content Producer / Community Producer  
 **Период:** 2019 — настоящее время  
@@ -98,3 +100,5 @@ YouTube использовался как верх воронки:
 - создании экосистемы вокруг контента  
 
 Это не разовая активность, а долгосрочно управляемый медиа-продукт с живой аудиторией.
+
+<script src="/assets/js/lightbox.js"></script>

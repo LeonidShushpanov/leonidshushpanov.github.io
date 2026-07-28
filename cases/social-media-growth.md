@@ -45,7 +45,7 @@ YouTube стал основной площадкой для:
 - работы со структурой выпуска
 - понимания удержания и глубины просмотра
 
-<div style="display:flex; gap:2%;">
+<div style="display:flex; gap:2%; align-items:flex-start;">
   <img src="/assets/images/social-5.jpg" class="zoomable" style="width:32%; border-radius:12px;">
   <img src="/assets/images/social-6.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>

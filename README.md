@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="/assets/css/lightbox.css">
 <style>
   html { scroll-behavior: smooth; }
+  a[id] { display: block; scroll-margin-top: 24px; }
 </style>
 
 # Леонид Шушпанов  
@@ -60,9 +61,10 @@
 
 ---
 
+<a id="menu"></a>
+
 ## Избранные проекты
 
-<a id="menu"></a>
 - [Подкаст «Стартую себя»](#case-startuju-sebya)
 - [«Плёночная суета» — нишевое медиа и сообщество](#case-plenochnaya-sueta)
 - [Шоу «Мафия с падающими стульями»](#case-mafia-show)

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+
 # Леонид Шушпанов  
 Контент продюсер / Видео Продюсер  
 
@@ -6,7 +8,7 @@
 Тольятти, Россия  
 Удаленная работа / гибрид / офис
 
-<img src="/assets/images/portrets-8-1.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/portrets-8-1.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 ## Обо мне
 
@@ -36,9 +38,9 @@
 ---
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/work-1-2.png" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/work-2.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/work-3.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/work-1-2.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/work-2.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/work-3.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ## Чем я занимаюсь
@@ -60,7 +62,7 @@
 ### Подкаст "Стартую себя"  
 Продюсер, режиссер, монтажер  
 
-<img src="/assets/images/podcast-9.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/podcast-9.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 Из любительского подкаста "на коленке" - в полноценный медиа-проект с монетизацией и офлайн-активностями.  
 Проект развивался и продюсировался в течение 6 месяцев.
@@ -77,7 +79,7 @@ RuTube - 1 716 000
 ### «Плёночная суета» — нишевое медиа и сообщество  
 Контент продюсер / Сообщество продюсер  
 
-<img src="/assets/images/chat-1.jpg" width="40%" style="border-radius:12px; margin-right:2%;"><img src="/assets/images/chat-2.jpg" width="40%" style="border-radius:12px;">
+<img src="/assets/images/chat-1.jpg" class="zoomable" width="40%" style="border-radius:12px; margin-right:2%;"><img src="/assets/images/chat-2.jpg" width="40%" style="border-radius:12px;">
 
 Нишевое медиа и крупнейшее русскоязычное сообщество по плёночной фотографии, построенное вокруг YouTube-контента и Telegram-экосистемы.  
 Проект объединяет 1300+ активных участников и платформу для публикации работ авторов.
@@ -89,7 +91,7 @@ RuTube - 1 716 000
 ### Шоу "Мафия с падающими стульями"  
 Технический продюсер / Оператор-постановщик  
 
-<img src="/assets/images/mafia-vk-preview2.png" width="100%" style="border-radius:12px;">
+<img src="/assets/images/mafia-vk-preview2.png" class="zoomable" width="100%" style="border-radius:12px;">
 
 Имиджевое шоу со спортивными звездами города Тольятти, снятое в формате одного непрерывного дубля с 12 участниками в кадре.
 
@@ -102,7 +104,7 @@ RuTube - 1 716 000
 ### Интервью для экспозиций музея и подкасты Федерации баскетбола  
 Контент продюсер / Видео продюсер  
 
-<img src="/assets/images/museum-sport-6.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/museum-sport-6.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 Производство серий интервью и подкастов для государственных и спортивных организаций.  
 Съемки на нескольких локациях, полное техническое сопровождение и интеграция контента в интерактивные музейные экспозиции и официальные медиа Федерации.
@@ -114,7 +116,7 @@ RuTube - 1 716 000
 ### Выездные съемки подкастов на фестивалях  
 Контент продюсер / Оператор-постановщик  
 
-<img src="/assets/images/papaja-3.jpg" width="100%" style="border-radius:12px;">  
+<img src="/assets/images/papaja-3.jpg" class="zoomable" width="100%" style="border-radius:12px;">  
 
 Организация мобильных подкаст-площадок на городских мероприятиях ("Влияние" и "ПапаЯ").  
 Создание форматов, выездной продакшен и запись контента в условиях живого ивента.
@@ -126,7 +128,7 @@ RuTube - 1 716 000
 ### Личные соцсети и рост контента  
 Контент продюсер / Видео продюсер  
 
-<img src="/assets/images/social-1.jpg" width="100%" style="border-radius:12px;">  
+<img src="/assets/images/social-1.jpg" class="zoomable" width="100%" style="border-radius:12px;">  
 
 Собственные YouTube, TikTok и Instagram* как экспериментальная лаборатория форматов и алгоритмов.  
 Рост каналов до **60 000 подписчиков на YouTube**, **42 000 в TikTok** и ролики с охватами **до 8 млн просмотров** — без рекламных бюджетов.  
@@ -143,3 +145,5 @@ RuTube - 1 716 000
 Телеграм: [@velikor](https://telegram.me/velikor)  
 ВК: [vk.com/albunite](https://vk.ru/albunite)  
 Email: [albunite@ya.ru](mailto:albunite@ya.ru?subject=Вакансия Content Producer)
+
+<script src="/assets/js/lightbox.js"></script>

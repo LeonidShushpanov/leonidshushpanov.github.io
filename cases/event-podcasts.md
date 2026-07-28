@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+
 # Выездные съемки подкастов на фестивалях "Влияние" и "ПапаЯ"
 
-<img src="/assets/images/papaja-3.jpg" width="100%" style="border-radius:12px;">  
+<img src="/assets/images/papaja-3.jpg" class="zoomable" width="100%" style="border-radius:12px;">  
 
 ## Роль
 Content Producer / Field Producer / Video Producer
@@ -38,9 +40,9 @@ Content Producer / Field Producer / Video Producer
 Подкаст-площадка была организована совместно с подкастом "Стартую себя".
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/vlianie-5.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/vlianie-4.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/vlianie-3.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/vlianie-5.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/vlianie-4.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/vlianie-3.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ### Условия
@@ -76,13 +78,13 @@ Content Producer / Field Producer / Video Producer
 
 <div style="display:flex; gap:2%; align-items:flex-start;">
   <img 
-    src="/assets/images/papaja-12.jpg"
+    src="/assets/images/papaja-12.jpg" class="zoomable"
     style="width:24%; border-radius:12px;">
   <img 
-    src="/assets/images/papaja-1.jpg"
+    src="/assets/images/papaja-1.jpg" class="zoomable"
     style="width:48%; border-radius:12px;">
   <img 
-    src="/assets/images/papaja-6.jpg"
+    src="/assets/images/papaja-6.jpg" class="zoomable"
     style="width:24%; border-radius:12px;">
 </div>
 
@@ -136,3 +138,5 @@ Content Producer / Field Producer / Video Producer
 - способом вовлечения гостей  
 
 Форматы были успешно реализованы в условиях живых мероприятий без остановки процессов и потери атмосферы.
+
+<script src="/assets/js/lightbox.js"></script>

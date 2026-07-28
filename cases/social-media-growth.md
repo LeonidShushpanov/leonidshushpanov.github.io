@@ -1,7 +1,9 @@
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+
 # Личные соцсети как лаборатория контент-форматов  
 Content Producer / Video Producer
 
-<img src="/assets/images/social-1.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/social-1.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 ## Контекст
 
@@ -15,9 +17,9 @@ Content Producer / Video Producer
 Этот опыт напрямую используется мной в продюсировании клиентских и авторских проектов.
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/social-2.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/social-3.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/social-4.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-2.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-3.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-4.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ---
@@ -44,8 +46,8 @@ YouTube стал основной площадкой для:
 - понимания удержания и глубины просмотра
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/social-5.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/social-6.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-5.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-6.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ---
@@ -74,8 +76,8 @@ TikTok дал практическое понимание:
 - упаковки сложных тем в короткий формат
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/social-7.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/social-8.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-7.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-8.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ---
@@ -94,9 +96,9 @@ Instagram использовался как:
 - визуальное портфолио и личный бренд
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/social-9.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/social-10.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/social-12.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-9.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-10.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/social-12.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ---
@@ -111,7 +113,7 @@ Instagram использовался как:
 - навык адаптации одного смысла под разные площадки
 - осознание ограничений и сильных сторон каждой платформы
 
-<img src="/assets/images/social-11.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/social-11.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 ---
 
@@ -131,3 +133,5 @@ Instagram*: https://www.instagram.com/albugram
 ---
 
 \* Instagram принадлежит компании Meta, признанной экстремистской организацией на территории РФ
+
+<script src="/assets/js/lightbox.js"></script>

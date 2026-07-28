@@ -42,7 +42,7 @@
 ---
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/work-1-2.png" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/work-1-2.jpg" class="zoomable" style="width:32%; border-radius:12px;">
   <img src="/assets/images/work-2.jpg" class="zoomable" style="width:32%; border-radius:12px;">
   <img src="/assets/images/work-3.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
@@ -113,7 +113,7 @@ RuTube - 1 716 000
 ### Шоу "Мафия с падающими стульями"  
 Технический продюсер / Оператор-постановщик  
 
-<img src="/assets/images/mafia-vk-preview2.png" class="zoomable" width="100%" style="border-radius:12px;">
+<img src="/assets/images/mafia-vk-preview2.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 Имиджевое шоу со спортивными звездами города Тольятти, снятое в формате одного непрерывного дубля с 12 участниками в кадре.
 

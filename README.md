@@ -140,6 +140,6 @@ RuTube - 1 716 000
 
 ## Контакты
 
-Телеграм: [@velikor](https://t.me/velikor)  
-ВК: [vk.com/albunite](https://vk.com/albunite)  
+Телеграм: [@velikor](https://telegram.me/velikor)  
+ВК: [vk.com/albunite](https://vk.ru/albunite)  
 Email: [albunite@ya.ru](mailto:albunite@ya.ru?subject=Вакансия Content Producer)

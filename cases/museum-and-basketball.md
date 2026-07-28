@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+
 # Интервью для экспозиций музея и подкасты Федерации баскетбола Тольятти
 
-<img src="/assets/images/museum-sport-6.jpg" width="100%" style="border-radius:12px;">
+<img src="/assets/images/museum-sport-6.jpg" class="zoomable" width="100%" style="border-radius:12px;">
 
 ## Роль
 Content Producer / Video Producer / Post-production
@@ -42,9 +44,9 @@ Content Producer / Video Producer / Post-production
 ## Реализация
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/museum-sport-3.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/museum-sport-10.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/museum-sport-11.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-3.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-10.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-11.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ### Подготовка локаций
@@ -78,9 +80,9 @@ Content Producer / Video Producer / Post-production
 - возможности в реальном времени контролировать звук и картинку  
 
 <div style="display:flex; gap:2%;">
-  <img src="/assets/images/museum-sport-7.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/museum-sport-9.jpg" style="width:32%; border-radius:12px;">
-  <img src="/assets/images/museum-sport-6-1-2.jpg" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-7.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-9.jpg" class="zoomable" style="width:32%; border-radius:12px;">
+  <img src="/assets/images/museum-sport-6-1-2.jpg" class="zoomable" style="width:32%; border-radius:12px;">
 </div>
 
 ---
@@ -146,3 +148,5 @@ Content Producer / Video Producer / Post-production
 - техническую реализацию  
 - постпродакшен  
 - передачу финальных материалов заказчикам
+
+<script src="/assets/js/lightbox.js"></script>

@@ -126,9 +126,9 @@ Instagram использовался как:
 - говорю с авторами и заказчиками на одном языке,
 - принимаю продюсерские решения, опираясь на реальные данные, а не теорию.
 
-YouTube: https://www.youtube.com/@Albunite
-TikTok: https://www.tiktok.com/@velikorec
-Instagram*: https://www.instagram.com/albugram
+YouTube: [https://www.youtube.com/@Albunite](https://www.youtube.com/@Albunite)<br>
+TikTok: [https://www.tiktok.com/@velikorec](https://www.tiktok.com/@velikorec)<br>
+Instagram*: [https://www.instagram.com/albugram](https://www.instagram.com/albugram)<br>
 
 ---
 

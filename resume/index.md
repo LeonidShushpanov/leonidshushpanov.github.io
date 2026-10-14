@@ -221,6 +221,6 @@ Premiere Pro, DaVinci Resolve (в процессе освоения), CapCut, Au
 
 ## Контакты
 
-Телеграм: [@velikor](https://t.me/velikor)  
-VK: [vk.com/albunite](https://vk.com/albunite)  
+Телеграм: [@velikor](https://telegram.me/velikor)  
+VK: [vk.com/albunite](https://vk.ru/albunite)  
 Email: [albunite@ya.ru](mailto:albunite@ya.ru?subject=Вакансия Content Producer)

@@ -33,20 +33,17 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 12px;
     margin: 24px 0;
+    align-items: start;
   }
   .gallery.two { grid-template-columns: repeat(2, 1fr); }
   .gallery img {
     width: 100%;
-    aspect-ratio: 4 / 3;
-    object-fit: cover;
+    height: auto;
     border-radius: 12px;
   }
 
   @media (max-width: 700px) {
     .stats-grid { grid-template-columns: repeat(2, 1fr); }
-  }
-  @media (max-width: 600px) {
-    .gallery { grid-template-columns: 1fr; }
   }
 </style>
 

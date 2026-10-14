@@ -46,47 +46,76 @@ Content Producer / Video Producer
 
 ## Цифры и результаты
 
-<div style="
-  display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(170px, 1fr));
-  gap:12px;
-  margin:16px 0 20px 0;
-">
+<style>
+  .stats-grid {
+    display:grid;
+    grid-template-columns:repeat(4, 1fr);
+    gap:12px;
+    margin:16px 0 12px 0;
+  }
+  .stat-card {
+    border:1px solid #e5e7eb;
+    border-radius:12px;
+    padding:16px;
+  }
+  .stat-num {
+    font-size:1.6em;
+    font-weight:700;
+    line-height:1.2;
+  }
+  .stat-label {
+    font-size:0.9em;
+    opacity:0.75;
+    margin-top:4px;
+  }
+  @media (max-width:700px) {
+    .stats-grid { grid-template-columns:repeat(2, 1fr); }
+  }
+</style>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-    <div style="font-size:1.6em; font-weight:700;">800 000+</div>
-    <div style="font-size:0.9em; opacity:0.75;">просмотров подкаста «Стартую себя» за 6 месяцев, проект стал окупаемым</div>
+<div class="stats-grid">
+
+  <div class="stat-card">
+    <div class="stat-num">800 000+</div>
+    <div class="stat-label">просмотров подкаста «Стартую себя» за 6 месяцев, проект стал окупаемым</div>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-    <div style="font-size:1.6em; font-weight:700;">~100</div>
-    <div style="font-size:0.9em; opacity:0.75;">выпусков подкастов и интервью для 10 проектов</div>
+  <div class="stat-card">
+    <div class="stat-num">~100</div>
+    <div class="stat-label">выпусков подкастов и интервью для 10 проектов</div>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-    <div style="font-size:1.6em; font-weight:700;">22,8 млн</div>
-    <div style="font-size:0.9em; opacity:0.75;">просмотров лучших роликов на YouTube, в TikTok и Instagram*</div>
+  <div class="stat-card">
+    <div class="stat-num">22,8 млн</div>
+    <div class="stat-label">просмотров лучших роликов на YouTube, в TikTok и Instagram*</div>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-    <div style="font-size:1.6em; font-weight:700;">104 000+</div>
-    <div style="font-size:0.9em; opacity:0.75;">подписчиков на личных площадках (YouTube, TikTok, Instagram*)</div>
+  <div class="stat-card">
+    <div class="stat-num">104 000+</div>
+    <div class="stat-label">подписчиков на личных площадках (YouTube, TikTok, Instagram*)</div>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-    <div style="font-size:1.6em; font-weight:700;">23</div>
-    <div style="font-size:0.9em; opacity:0.75;">интервью для двух интерактивных экспозиций краеведческого музея</div>
+  <div class="stat-card">
+    <div class="stat-num">23</div>
+    <div class="stat-label">интервью для двух интерактивных экспозиций краеведческого музея</div>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
-    <div style="font-size:1.6em; font-weight:700;">1 300+</div>
-    <div style="font-size:0.9em; opacity:0.75;">активных участников сообщества «Плёночная суета»</div>
+  <div class="stat-card">
+    <div class="stat-num">26–28 тыс.</div>
+    <div class="stat-label">просмотров на выпуск подкастов Федерации баскетбола г.о. Тольятти</div>
+  </div>
+
+  <div class="stat-card">
+    <div class="stat-num">1 300+</div>
+    <div class="stat-label">активных участников сообщества «Плёночная суета»</div>
+  </div>
+
+  <div class="stat-card">
+    <div class="stat-num">15 000+</div>
+    <div class="stat-label">фотографий от 500+ авторов в «Плёночной суете»</div>
   </div>
 
 </div>
-
-- Федерация баскетбола г.о. Тольятти: подкасты с профессиональными спортсменами, выпуски по 26 000–28 000 просмотров  
-- «Плёночная суета»: 500+ авторов, 15 000+ опубликованных фотографий, около 10 000 сообщений в месяц  
 
 <sub>\*Признана экстремистской организацией и запрещена на территории РФ</sub>
 
@@ -166,7 +195,7 @@ Premiere Pro, DaVinci Resolve (в процессе освоения), CapCut, Au
 2019 — настоящее время  
 
 **Ключевые проекты:**
-- Федерация баскетбола г.о. Тольятти: подкасты с профессиональными спортсменами  
+- Федерация баскетбола г.о. Тольятти: подкасты с профессиональными спортсменами, выпуски по 26 000–28 000 просмотров  
 - Тольяттинский краеведческий музей (госпрограммы): интервью для двух экспозиций, указан в команде на сайте музея  
 - Выездные подкаст-студии на форумах и фестивалях  
 - Продюсирование частного подкаста в бизнес-тематике  

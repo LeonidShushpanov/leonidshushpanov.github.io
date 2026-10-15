@@ -55,6 +55,39 @@
 Москва  
 Удалённая работа / гибрид / офис
 
+<!-- HERO START -->
+<style>
+  .hero-title {
+    margin: 28px 0 24px 0;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+  }
+  .hero-title span { display: block; }
+  .hero-title .hero-small {
+    font-size: clamp(1.4em, 5vw, 2.2em);
+    font-weight: 700;
+  }
+  .hero-title .hero-big {
+    font-size: clamp(2.4em, 9vw, 4.6em);
+  }
+  .hero-title .hero-italic {
+    font-size: clamp(2em, 7vw, 3.6em);
+    font-style: italic;
+    font-weight: 300;
+    text-transform: none;
+    color: #e63946;
+  }
+</style>
+
+<div class="hero-title">
+  <span class="hero-small">ОГО ЭТО ШТО</span>
+  <span class="hero-big">КРЕАТИВНОЕ ПОРТФОЛИО?!</span>
+  <span class="hero-italic">да...</span>
+</div>
+<!-- HERO END -->
+
 <img src="/assets/images/portrets-8-1.jpg" class="zoomable case-img" alt="Леонид Шушпанов">
 
 ## Обо мне
